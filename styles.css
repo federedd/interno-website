@@ -1,0 +1,143 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.logo {
+  width: 2.7vw;
+}
+
+.logo-wrapper {
+  font-family: DM Serif Display, sans-serif;
+  font-size: 3.2vw;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  margin: 30px;
+  width: 100%;
+}
+.nav-wrapper {
+  display: flex;
+  list-style: none;
+  font-family: Jost, sans-serif;
+  font-weight: 300;
+  font-size: 1.3vw;
+  align-items: center;
+  width: 40%;
+  justify-content: space-evenly;
+}
+.search {
+  width: 2vw;
+  height: 2vw;
+}
+
+ul {
+  padding: 0;
+}
+
+.hero-img {
+  width: 1100px;
+  height: 45vw;
+  position: relative;
+  display: block;
+  border-radius: 50px;
+  max-width: 100%;
+  padding: 20px;
+  margin: auto;
+}
+.hero {
+  position: relative;
+}
+.hero-title {
+  font-family: DM serif display, sans-serif;
+  font-size: 4vw;
+  font-weight: 400;
+  line-height: 125%;
+  color: #292f36;
+  word-spacing: 6px;
+}
+
+.hero-text-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+  position: absolute;
+  top: 14vw;
+  left: 18vw;
+  height: 20vw;
+}
+
+.hero-subtitle {
+  font-family: Jost, sans-serif;
+  color: #4d5053;
+  font-size: 1.5vw;
+  font-weight: 300;
+  line-height: 150%;
+}
+
+.get-started-button {
+  font-size: 1vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  border: none;
+  background-color: #292f36;
+  text-align: center;
+  padding: 1vw 2vw 1vw 2vw;
+  font-family: Jost, sans-serif;
+  color: white;
+  border-radius: 18px;
+  width: 11vw;
+}
+
+.arrow {
+  width: 15px;
+  height: 13px;
+  margin-left: 5px;
+}
+
+.read-more {
+  margin: 50px 100px;
+  display: flex;
+  color: #292f36;
+}
+
+.read-more-wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  text-align: center;
+}
+
+.read-more-title {
+  font-family: DM serif display, sans-serif;
+  font-size: 2vw;
+}
+
+.read-more-paragraph {
+  font-family: Jost, sans-serif;
+  font-size: 1.5vw;
+  font-weight: 200;
+  padding: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: #292f36;
+  font-family: Jost, sans-serif;
+  text-align: center;
+}
+
+.read-more-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.call-icon {
+  width: 93px;
+  height: 93px;
+}
