@@ -38,7 +38,7 @@ ul {
 }
 
 .hero-img {
-  width: 1100px;
+  width: 1200px;
   height: 45vw;
   position: relative;
   display: block;
@@ -137,7 +137,200 @@ a {
   justify-content: center;
 }
 
+.page-2 {
+  padding: 50px;
+}
+
 .call-icon {
   width: 93px;
   height: 93px;
+}
+
+.about-us-image-wrapper {
+  display: flex;
+}
+
+.img-2 {
+  width: 50%;
+  margin: 30px;
+  border-top-right-radius: 50%;
+  border-bottom-left-radius: 20%;
+}
+
+.about-us-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 50px;
+}
+
+.about-us-title {
+  color: #292f36;
+  font-family: "DM Serif Display";
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 125%; /* 62.5px */
+  letter-spacing: 1px;
+  padding: 20px;
+}
+
+.about-us-paragraph {
+  color: #4d5053;
+  font-family: Jost;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 200;
+  line-height: 150%; /* 33px */
+  letter-spacing: 0.22px;
+  padding: 20px;
+}
+
+.icon-number-wrapper {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+
+.number {
+  color: #4d5053;
+  font-family: Jost;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%; /* 36px */
+  letter-spacing: 1px;
+}
+
+.number-text {
+  color: #4d5053;
+  font-family: Jost;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 33px */
+  letter-spacing: 0.22px;
+}
+
+.icon-number-text-wrapper {
+  margin-left: 10px;
+}
+
+.margin {
+  margin: 20px;
+}
+
+.reviews-title-wrapper {
+  background-color: #f4f0ec;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 90%;
+  align-items: center;
+  border-radius: 30px;
+  padding: 40px;
+}
+
+.reviews-wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+.review {
+  width: 30%;
+  background-color: white;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.reviews-title {
+  color: #292f36;
+  text-align: center;
+  font-family: "DM Serif Display";
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 125%; /* 62.5px */
+  letter-spacing: 1px;
+  padding-bottom: 30px;
+}
+
+.review-icon {
+  border-radius: 50%;
+  width: 100px;
+}
+
+.icon-name-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 21px;
+}
+
+h2 {
+  color: #292f36;
+  font-family: "DM Serif Display";
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 33px */
+  letter-spacing: 0.22px;
+}
+
+h3 {
+  color: #4d5053;
+  font-family: Jost;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0.22px;
+}
+
+.review-text {
+  color: #4d5053;
+  font-family: Jost;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 33px */
+  letter-spacing: 0.22px;
+  padding: 30px;
+}
+
+.h2-h3-wrapper {
+  margin-left: 20px;
+}
+
+.brands-wrapper {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 50px;
+}
+
+.projects-title {
+  color: #292f36;
+  text-align: center;
+  font-family: "DM Serif Display";
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 125%; /* 62.5px */
+  letter-spacing: 1px;
+}
+
+.projects-subtitle {
+  color: #4d5053;
+  text-align: center;
+  font-family: Jost;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 200;
+  line-height: 150%; /* 33px */
+  letter-spacing: 0.22px;
+}
+
+.projects-wrapper {
+  display: flex;
+  flex-direction: column;
 }
