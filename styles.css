@@ -514,6 +514,113 @@ h6 {
   height: 60%;
 }
 
+.page-6 {
+  padding: 100px;
+}
+.wrapper {
+  padding: 50px;
+  background-color: #292f36;
+  border-radius: 70px;
+}
+
+.wrapper-text {
+  color: #fff;
+  text-align: center;
+  font-family: "DM Serif Display";
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 125%; /* 62.5px */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 230px;
+  justify-content: space-around;
+}
+
+.wrapper-subtitle {
+  color: #fff;
+  text-align: center;
+  font-family: Jost;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 200;
+  line-height: 150%; /* 33px */
+  letter-spacing: 0.22px;
+}
+
+.contact-us-button {
+  background-color: #cda274;
+  border: none;
+  padding: 20px;
+  border-radius: 20px;
+  color: white;
+  width: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.arrow2 {
+  width: 15px;
+  height: 13px;
+}
+
+.social {
+  width: 17px;
+  height: 17px;
+  margin-right: 50px;
+}
+
+.page-7 {
+  display: flex;
+  padding: 100px;
+  justify-content: space-between;
+}
+
+.footer-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 200px;
+}
+
+.footer-subtitle {
+  color: #4d5053;
+  font-family: Jost;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 200;
+  line-height: 150%; /* 33px */
+  letter-spacing: 0.22px;
+}
+.footer-right {
+  display: flex;
+}
+
+.column-title {
+  color: #292f36;
+  font-family: "DM Serif Display";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  padding-bottom: 10px;
+}
+
+.link {
+  color: #4d5053;
+  font-family: Jost;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 200;
+  padding-bottom: 10px;
+  letter-spacing: 0.22px;
+}
+
+.column {
+  padding: 20px;
+}
+
 @media only screen and (max-width: 1360px) {
   .projects-wrapper {
     flex-direction: column;
