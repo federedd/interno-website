@@ -1,10 +1,6 @@
-# interno-website
-
-# Interno Website (Practice Project)
-
 This repository contains the source code for the Interno website, created as a practice project to enhance skills in website layouts and CSS flexbox. Please note that this project is not currently functional and serves as a learning exercise.
 
-Designed from [this Figma file] (https://www.figma.com/file/t2frPeNMqsrTnfLHuMHlXD/Interior-Design-Webflow-Website-Template-(Community)?type=design&node-id=1-5&mode=design&t=hK9S6hrALaf2dzEK-0)
+Designed from [this Figma file](<https://www.figma.com/file/t2frPeNMqsrTnfLHuMHlXD/Interior-Design-Webflow-Website-Template-(Community)?type=design&node-id=1-5&mode=design&t=hK9S6hrALaf2dzEK-0>)
 
 ## Table of Contents
 
@@ -13,13 +9,12 @@ Designed from [this Figma file] (https://www.figma.com/file/t2frPeNMqsrTnfLHuMHl
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
-![interno homepage](./assets/interno-homepage.png) ![interno articles](./assets/interno-articles.png)
+![interno homepage](./assets/interno-demo.png) ![interno articles](./assets/interno-articles.png)
 
 ## Introduction
 
-The Interno website is a non-functional project built using HTML and styled with CSS. It has been developed to practice website layouts and explore the capabilities of CSS flexbox. The website consists of multiple pages, each focusing on different aspects of the platform such as home, projects, reviews, and articles.
+The Interno website is a non-functional project built using HTML and styled with CSS. It has been developed to practice website layouts and explore the capabilities of CSS flexbox. The website consists of multiple pages, each focusing on different aspects of the business such as home, projects, reviews, and articles.
 
 ## Features
 
@@ -52,7 +47,3 @@ If you'd like to contribute to the development of the Interno website practice p
 3. Make your changes and commit them: `git commit -m 'Add new feature'`
 4. Push to the branch: `git push origin feature/new-feature`
 5. Submit a pull request
-
-## License
-
-This practice project is licensed under the [MIT License](LICENSE).
